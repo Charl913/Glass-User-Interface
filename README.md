@@ -1,3 +1,6 @@
 # Glass-User-Interface
-
-![image](https://github.com/Charl913/Glass-User-Interface/assets/73072328/5a3681c4-f7a7-4f61-b66b-926e3bf770f6)
+The Project was created to display a customized log in form.
+To interact with the project, visit [Glass UI project](https://charl913.github.io/Glass-User-Interface/)
+## Technologies used:
+1. HTML
+1. CSS
